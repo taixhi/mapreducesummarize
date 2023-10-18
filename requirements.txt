@@ -1,0 +1,6 @@
+streamlit
+langchain
+pdfminer.six
+faiss-cpu
+openai
+pypdf
