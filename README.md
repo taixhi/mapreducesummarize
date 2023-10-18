@@ -24,7 +24,7 @@ Ensure you have the following installed on your machine:
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/MapReduceSummarize.git
+git clone https://github.com/taixhi/MapReduceSummarize.git
 cd MapReduceSummarize
 ```
 
@@ -55,25 +55,11 @@ export OPENAI_API_KEY=<your_api_key>
 streamlit run ./app.py
 ```
 
-3. If you wish to make the app accessible on the web, open a new terminal window, activate the virtual environment, and run:
-```bash
-ngrok http 8501
-```
-
 Now, navigate to the URL provided by ngrok in a web browser to access the MapReduceSummarize app.
-
-### Contributing
-
-We welcome contributions! Please see the `CONTRIBUTING.md` file for details on how to contribute to MapReduceSummarize.
 
 ### License
 
 This project is licensed under the MIT License. See the `LICENSE.md` file for details.
 
 ### Contact
-
-Feel free to reach out to the maintainers of this project via GitHub or email for any queries or support.
-
----
-
-Now you have a more detailed README that outlines the features, prerequisites, installation steps, usage instructions, and other relevant sections for the MapReduceSummarize project. This expanded README provides a clearer understanding of the project, its setup, and how to use it.
+Feel free to reach out to [me](https://taichikato.com) via GitHub or email for any queries or support.
